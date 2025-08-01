@@ -1,7 +1,7 @@
 #  EthOS Vision Wordle
 A challenging Wordle variant featuring advanced cryptocurrency and blockchain terminology from the Ethos.Vision ecosystem.
 🚀 Play Now
- 🎯 Play the Game Here (https://wordle-zhc973fd9xi3dnts78x6pr.streamlit.app/)
+ 🎯 Play the Game Here (https://wordle-e6ru3hp8nchhkkrtib7vq6.streamlit.app/)
  🎯 Game Rules
 
 - **Objective**: Guess the secret Eth OS term
